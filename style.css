@@ -42,7 +42,7 @@ nav li a:hover{
 }
 .banner{
     height: 100vh;
-    background: linear-gradient( rgba(40, 10, 231, 0.281), rgb(233, 0, 0)),url('background.jpg');
+    background: linear-gradient( rgba(2, 241, 106, 0.73), rgb(197, 223, 3)),url('background.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -52,12 +52,12 @@ nav li a:hover{
     text-align: center;
 }
 .texto .titulo{
-    color: #fff;
+    color: #1c1717;
     font-size: 60px;
     font-weight: 600;
 }
 .texto .sub_titulo{
-    color: #fff;
+    color: #0f0c0c;
     font-size: 58px;
     font-weight: 600;
 }
