@@ -31,7 +31,7 @@
   }
   
   nav ul li a {
-    color: #fff;
+    color: #c711ff;
     text-decoration: none;
     font-size: 18px;
   }
@@ -42,7 +42,7 @@
   
   header {
     background: url('https://via.placeholder.com/1500x500') no-repeat center center/cover;
-    color: white;
+    color: rgb(255, 11, 11);
     text-align: center;
     padding: 100px 0;
   }
@@ -80,7 +80,7 @@
     background-color: #df1212;
     padding: 30px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(126, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgb(10, 3, 3);
     margin: 20px 0;
   }
   
@@ -99,7 +99,7 @@
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #020101;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgb(0, 0, 0);
   }
