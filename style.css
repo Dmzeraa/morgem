@@ -1,11 +1,10 @@
-/* Reset de estilo para garantir consistência em todos os navegadores */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  /* Definindo a fonte padrão para o site */
   body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -15,7 +14,6 @@
     padding: 0;
   }
   
-  /* Navbar */
   nav {
     background-color: #4CAF50;
     color: #fff;
@@ -42,7 +40,6 @@
     color: #ccc;
   }
   
-  /* Header */
   header {
     background: url('https://via.placeholder.com/1500x500') no-repeat center center/cover;
     color: white;
@@ -55,7 +52,6 @@
     font-weight: bold;
   }
   
-  /* Seções */
   section {
     padding: 60px 20px;
     text-align: center;
@@ -74,14 +70,12 @@
     line-height: 1.6;
   }
   
-  /* Estilo para imagens dentro de seções */
   section img {
     width: 100%;
     height: auto;
     border-radius: 8px;
   }
   
-  /* Box com fundo para destacar as seções */
   .box {
     background-color: #fff;
     padding: 30px;
@@ -101,7 +95,6 @@
     color: #666;
   }
   
-  /* Formulário de contato */
   form {
     max-width: 600px;
     margin: 0 auto;
@@ -135,7 +128,6 @@
     background-color: #45a049;
   }
   
-  /* Responsividade */
   @media (max-width: 768px) {
     header h1 {
       font-size: 32px;
