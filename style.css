@@ -77,7 +77,7 @@
   }
   
   .box {
-    background-color: #fff;
+    background-color: #df1212;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -109,7 +109,7 @@
     width: 100%;
     padding: 10px;
     margin: 10px 0;
-    border: 1px solid #ccc;
+    border: 1px solid #080606;
     border-radius: 4px;
     font-size: 16px;
   }
